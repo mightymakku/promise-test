@@ -1,0 +1,3 @@
+# promise-test
+
+Exploring JavaScript promises...
